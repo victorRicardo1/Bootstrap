@@ -11,6 +11,7 @@
     "sass:watch": "sass --no-source-map --watch scss:css"
   },
   "dependencies": {
+    "bootstrap": "^5.3.7",
     "sass": "^1.89.2"
   }
 }
